@@ -8,6 +8,8 @@ If you need a larger resolution of one of the generative fractal art pieces, ope
 # Some examples of my work you'll find in this repo.
 ![image](https://github.com/EternityX/art-projects/assets/4403000/931f4092-f8d0-40a9-b0f3-ad65df0a4ab3)
 
+![image](https://github.com/EternityX/art-projects/assets/4403000/f9dc3b8b-ffb9-4828-b832-d7cd27e24ae3)
+
 ![image](https://github.com/EternityX/art-projects/assets/4403000/e5b08cf0-2b62-4286-a534-e2d52e06b36b)
 
 ![image](https://github.com/EternityX/art-projects/assets/4403000/0188baa3-f410-447f-9e40-93ecaaec95ee)
