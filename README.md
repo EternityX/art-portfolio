@@ -1,9 +1,3 @@
-See more on:
-- https://www.deviantart.com/mybrainisdamaged 
-- https://www.artstation.com/jeramiedavis
-
------
-
 - 3D environments were created in Unreal Engine 5
 - Generative art was created in Chaotica
 
